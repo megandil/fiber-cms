@@ -1,0 +1,1 @@
+/home/vagrant/venv/django/lib/python3.9/site-packages/fiber/static/fiber/js/file-uploader-3.2.0/client/js/button.js

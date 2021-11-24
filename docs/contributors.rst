@@ -1,0 +1,5 @@
+============
+Contributors
+============
+
+.. literalinclude:: contributors.txt
